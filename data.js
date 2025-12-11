@@ -305,9 +305,9 @@ var APP_DATA = {
   ],
   "name": "PP Swiss",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": false,
     "fullscreenButton": true,
-    "viewControlButtons": true
+    "viewControlButtons": false
   }
 };
